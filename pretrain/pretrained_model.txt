@@ -1,1 +1,2 @@
-
+download pretrained resnet backbone here : https://download.pytorch.org/models/resnet50-19c8e357.pth
+download pretrained ssd weights here : https://pan.baidu.com/s/1S--7zt00JtylY9nm9bDXmA    password:iccv
